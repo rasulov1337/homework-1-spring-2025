@@ -43,3 +43,4 @@
     ![payment page](assets/success.png)
 -   После возвращения на страницу можно увидеть, что буст действует  
     ![ad list page with boosted ad](assets/page-with-boosted.png)
+    ![main page with boost](assets/main-page-with-boost.png)
