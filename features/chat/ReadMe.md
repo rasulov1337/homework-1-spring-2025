@@ -1,5 +1,7 @@
 # Чат
 
+Ссылка: pootnick.ru/chats
+
 ![Чат](assets/image_3.png)
 
 ## Начало
